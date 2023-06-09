@@ -1,7 +1,18 @@
 {
   "short_name": "React App",
   "name": "Create React App Sample",
-  "icons": [],
+  "icons": [
+    {
+      "src": "netflix.132x256.png",
+      "sizes": "132x256",
+      "type": "image/png"
+    },
+    {
+      "src": "netflix.265x512.png",
+      "sizes": "265x512",
+      "type": "image/png"
+    }
+  ],
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
